@@ -1,0 +1,4 @@
+source https://www.myget.org/F/roslyn-nightly/
+source https://www.myget.org/F/aspnetvnext/api/v3/index.json
+source https://www.nuget.org/api/v2/
+nuget Autofac.Extensions.DependencyInjection
